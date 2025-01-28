@@ -122,7 +122,7 @@ function App() {
         <div className="absolute inset-0 bg-[#a9fd08] opacity-[0.02] pointer-events-none"></div>
         <div className="max-w-7xl mx-auto px-6 py-24 relative z-10">
           <div className="text-center space-y-8">
-            <center> <img src="/capx.png" alt="capx" height="175px" width="400px" /></center>
+            {/* <center> <img src="/capx.png" alt="capx" height="175px" width="400px" /></center> */}
             <h1 className="text-4xl md:text-6xl font-mono font-bold bg-clip-text text-transparent 
               bg-gradient-to-r from-[#a9fd08] to-green-400 animate-gradient">
               Developer Guide
